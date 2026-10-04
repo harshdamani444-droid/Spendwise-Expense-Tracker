@@ -114,11 +114,11 @@ private fun SettingsContent(
 
             SettingsItem(
                 icon = "👨‍💻",
-                title = "Usman Ansari",
+                title = "Harsh Damani",
                 subtitle = "Built with ❤️ using Kotlin & Jetpack Compose",
                 showArrow = false,
                 onClick = {
-                    uriHandler.openUri("https://www.linkedin.com/in/usman1ansari/")
+                    uriHandler.openUri("https://www.linkedin.com/in/harsh-damani-90b6913b3/")
                 })
         }
     }

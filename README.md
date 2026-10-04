@@ -1,9 +1,9 @@
 <div align="center">
 
-# 💸 ExpenseFlow
+# 💸 Spendwise - Expense Tracker
 
 <p align="center">
-  <img src="app/src/main/ic_launcher-playstore.png" alt="ExpenseFlow Logo" width="25%" height="25%"/>
+  <img src="app/src/main/ic_launcher-playstore.png" alt="Spendwise Logo" width="25%" height="25%"/>
 </p>
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.2.21-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
@@ -14,7 +14,7 @@
 ![Pattern](https://img.shields.io/badge/Pattern-MVVM%2FMVI-purple?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-Room-orange?style=for-the-badge)
 
-### ExpenseFlow - Personal Expense Tracker
+### Spendwise - Personal Expense Tracker
 
 **A personal finance tracking application built with Clean Architecture, MVVM/MVI pattern, and a fully offline-first local database. Demonstrates reactive UI, multi-entity Room schema, and modern Jetpack Compose development.**
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 📲 [Download & Install the App](https://github.com/UsmanAnsari/ExpenseFlow/releases/download/v1.0.0/app-debug.apk)
+## 📲 [Download & Install the App](https://github.com/harshdamani444-droid/Spendwise-Expense-Tracker/releases/download/v1.0.0/app-debug.apk)
 
 ---
 
@@ -313,8 +313,8 @@ fun TransactionDom.toEntity(): TransactionEntity = TransactionEntity(
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/UsmanAnsari/ExpenseFlow.git
-cd ExpenseFlow
+git clone https://github.com/harshdamani444-droid/Spendwise-Expense-Tracker.git
+cd Spendwise-Expense-Tracker
 ```
 
 2. **Build and Run**
@@ -377,11 +377,11 @@ app/src/main/java/com/uansari/expenseflow/
 
 ## 👤 Author
 
-**Usman Ansari**
+**Harsh Damani**
 
-- 💼 LinkedIn: [Usman Ansari](https://www.linkedin.com/in/usman1ansari/)
-- 🐙 GitHub: [@UsmanAnsari](https://github.com/UsmanAnsari)
-- 📧 Email: usman10ansari@gmail.com
+- 💼 LinkedIn: [Harsh Damani](https://www.linkedin.com/in/harsh-damani-90b6913b3/)
+- 🐙 GitHub: [@harshdamani444-droid](https://github.com/harshdamani444-droid)
+- 📧 Email: harshdamani444@gmail.com
 
 ---
 
